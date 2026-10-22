@@ -11,8 +11,9 @@ Rio Grande do Sul, Brasil.
 ## Em destaque
 
 **[Radar de Chuva RS](https://github.com/lukinas1417/radar-chuva-rs)** ([ao vivo](https://lukinas1417.github.io/radar-chuva-rs/)):
-mapa em tela cheia da chuva acumulada e da situação dos rios em cada município do Rio Grande do Sul, com dados
-quase em tempo real do CEMADEN e da Defesa Civil RS. JavaScript, MapLibre GL, GraphQL e GitHub Actions.
+mapa em tela cheia da chuva acumulada, da previsão das próximas horas e da situação dos rios em cada município do
+Rio Grande do Sul, com dados quase em tempo real do CEMADEN e da Defesa Civil RS e estimativa por modelo
+(Open-Meteo) onde não há pluviômetro. JavaScript, MapLibre GL, GraphQL e GitHub Actions.
 
 ## Stack
 
