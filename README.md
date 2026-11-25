@@ -1,19 +1,19 @@
 # Lucas de Mélo Berra
 
-**Desenvolvedor Full Stack · Automação de processos · Integrações**
-*Full Stack Developer · Process Automation · Integrations*
+**Full Stack Developer · Process Automation · Integrations**
 
-Crio sistemas corporativos, aplicativos e plataformas web com regras de negócio complexas, da análise à produção.
-Rio Grande do Sul, Brasil.
+I build business systems, apps and web platforms, from analysis to production.
+Rio Grande do Sul, Brazil.
 
-**[Portfólio](https://lukinas1417.github.io/)** · [LinkedIn](https://www.linkedin.com/in/lucasberra-b47550149/) · [lmberra2@gmail.com](mailto:lmberra2@gmail.com)
+**[Portfolio](https://lukinas1417.github.io/)** · [LinkedIn](https://www.linkedin.com/in/lucasberra-b47550149/) · [lmberra2@gmail.com](mailto:lmberra2@gmail.com)
 
-## Em destaque
+## Featured
 
-**[Radar de Chuva RS](https://github.com/lukinas1417/radar-chuva-rs)** ([ao vivo](https://lukinas1417.github.io/radar-chuva-rs/)):
-mapa em tela cheia da chuva acumulada, da previsão das próximas horas e da situação dos rios em cada município do
-Rio Grande do Sul, com dados quase em tempo real do CEMADEN e da Defesa Civil RS e estimativa por modelo
-(Open-Meteo) onde não há pluviômetro. JavaScript, MapLibre GL, GraphQL e GitHub Actions.
+**[Radar de Chuva RS](https://github.com/lukinas1417/radar-chuva-rs)** ([live](https://lukinas1417.github.io/radar-chuva-rs/)):
+a full-screen map of Rio Grande do Sul showing accumulated rainfall, the forecast for the next few hours and river
+conditions in every municipality. It uses near real-time data from CEMADEN (Brazil's disaster monitoring center) and
+the state Civil Defense, plus model estimates (Open-Meteo) where there is no rain gauge. JavaScript, MapLibre GL,
+GraphQL and GitHub Actions.
 
 ## Stack
 
